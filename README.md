@@ -3,6 +3,10 @@
 
 This cutting-edge **AI-driven Cold Email Generator** seamlessly crafts highly personalized and impactful emails by analyzing job descriptions scraped from company career pages. Leveraging the power of **LLama-3.3, Groq Cloud, LangChain, and ChromaDB**, this tool intelligently extracts job postings and formulates professional cold emails that enhance engagement and conversion rates. Whether you're an AI enthusiast, business development professional, or recruiter, this tool streamlines communication, making outreach more **efficient, scalable, and results-driven**!  
 
+
+## Cover Image
+![Cover Image](<cover_image.png>)
+
 ## Tech Stack
 - **LLama-3.3-70B** (via Groq Cloud) - LLM used for job extraction & email generation
 - **LangChain** - Prompt engineering and AI pipeline
