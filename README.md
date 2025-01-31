@@ -5,7 +5,7 @@ This cutting-edge **AI-driven Cold Email Generator** seamlessly crafts highly pe
 
 
 ## Cover Image
-![Cover Image](<cover_image.png>)
+![Cover Image](<cover_image.jpg>)
 
 ## Tech Stack
 - **LLama-3.3-70B** (via Groq Cloud) - LLM used for job extraction & email generation
