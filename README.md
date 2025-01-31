@@ -3,16 +3,15 @@
 
 This cutting-edge **AI-driven Cold Email Generator** seamlessly crafts highly personalized and impactful emails by analyzing job descriptions scraped from company career pages. Leveraging the power of **LLama-3.3, Groq Cloud, LangChain, and ChromaDB**, this tool intelligently extracts job postings and formulates professional cold emails that enhance engagement and conversion rates. Whether you're an AI enthusiast, business development professional, or recruiter, this tool streamlines communication, making outreach more **efficient, scalable, and results-driven**!  
 
-
 ## Cover Image
 ![Cover Image](<cover_image.jpg>)
 
 ## Tech Stack
-- **LLama-3.3-70B** (via Groq Cloud) - LLM used for job extraction & email generation
-- **LangChain** - Prompt engineering and AI pipeline
-- **ChromaDB** - Vector database for portfolio management
-- **Python** - Backend scripting
-- **dotenv** - Secure API key management
+- 🧠 **LLama-3.3-70B** (via Groq Cloud) - LLM used for job extraction & email generation
+- 🔗 **LangChain** - Prompt engineering and AI pipeline
+- 🗃️ **ChromaDB** - Vector database for portfolio management
+- 🐍 **Python** - Backend scripting
+- 🔒 **dotenv** - Secure API key management
 
 ## Project Structure
 ```
@@ -29,17 +28,25 @@ cold-email-generator/
 ```
 
 ## Installation
-### Clone the Repository
+### 📥 Clone the Repository
 ```bash
 git clone https://github.com/shouvik27/COLD-EMAIL-GENERATOR.git
-cd app
+cd COLD-EMAIL-GENERATOR
 ```
 
-## Running the application
-### To start the application navigate to the app folder and then run the below command in terminal.
-```python
-python multilabel/main.py --config /pathtoconfig.yaml
+### 📦 Install Dependencies
+```bash
+pip install -r requirements.txt
 ```
+
+## Running the Application
+### 🚀 To start the application, navigate to the app folder and run the command below in the terminal:
+```bash
+python app/main.py --config /path/to/config.yaml
+```
+
+## Notes
+- 🔑 **API Key**: Make sure to update the `.env` file with your API key according to your model.
 
 
 
