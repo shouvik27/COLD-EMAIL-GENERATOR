@@ -31,7 +31,7 @@ git clone https://github.com/shouvik27/COLD-EMAIL-GENERATOR.git
 cd app
 ```
 
-### Running the application
+## Running the application
 ### To start the application navigate to the app folder and then run the below command in terminal.
 ```python
 python multilabel/main.py --config /pathtoconfig.yaml
